@@ -1,0 +1,13 @@
+2025-09-01 13:26:09.077 [main] INFO  WeekdaysTest - Valid input [1] → expected [Sunday], got [Sunday]
+2025-09-01 13:26:09.107 [main] INFO  WeekdaysTest - Valid input [2] → expected [Monday], got [Monday]
+2025-09-01 13:26:09.111 [main] INFO  WeekdaysTest - Valid input [3] → expected [Tuesday], got [Tuesday]
+2025-09-01 13:26:09.115 [main] INFO  WeekdaysTest - Valid input [4] → expected [Wednesday], got [Wednesday]
+2025-09-01 13:26:09.119 [main] INFO  WeekdaysTest - Valid input [5] → expected [Thursday], got [Thursday]
+2025-09-01 13:26:09.122 [main] INFO  WeekdaysTest - Valid input [6] → expected [Friday], got [Friday]
+2025-09-01 13:26:09.125 [main] INFO  WeekdaysTest - Valid input [7] → expected [Saturday], got [Saturday]
+2025-09-01 13:26:09.130 [main] ERROR WeekdaysTest - Testing with null input → expecting NullPointerException
+2025-09-01 13:26:09.137 [main] WARN  WeekdaysTest - Invalid low input [0] → expected [The number should be equal or larger than 1], got [The number should be equal or larger than 1]
+2025-09-01 13:26:09.141 [main] WARN  WeekdaysTest - Invalid low input [-1] → expected [The number should be equal or larger than 1], got [The number should be equal or larger than 1]
+2025-09-01 13:26:09.144 [main] WARN  WeekdaysTest - Invalid low input [-100] → expected [The number should be equal or larger than 1], got [The number should be equal or larger than 1]
+2025-09-01 13:26:09.150 [main] WARN  WeekdaysTest - Invalid high input [8] → expected [The number should be equal or smaller than 7], got [The number should be equal or smaller than 7]
+2025-09-01 13:26:09.154 [main] WARN  WeekdaysTest - Invalid high input [100] → expected [The number should be equal or smaller than 7], got [The number should be equal or smaller than 7]
