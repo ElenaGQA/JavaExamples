@@ -3,7 +3,7 @@ package lesson2;
 public class Homework2 {
     public static void main(String[] args) {
         String hello = "Hello";
-        String name = "Elena Grebeniuk";
+        String name = "Elena G";
 
         int a = -3;
         int b = 5;
