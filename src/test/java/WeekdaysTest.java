@@ -51,5 +51,4 @@ public class WeekdaysTest {
             Weekdays.getDay(a);
         });
     }
-
 }
