@@ -28,6 +28,7 @@ public class Homework2 {
         System.out.println(hello  + "\n" + name);
         System.out.println(result1);
         System.out.println(result2);
+        System.out.println(result3);
         System.out.println(ad + " * " + bd + " * " + cd + " * " + dd + " * " + ed + " = " + result3);
     }
 }
